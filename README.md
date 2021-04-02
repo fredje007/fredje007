@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @fredje007
-- 👀 I’m interested in economics, information management & AI
-- 🌱 I’m currently learning to code like a pro and combine all my knowledge to contribute to open source coding.
-- 💞️ I’m looking to collaborate on lots of differents things.
-- 📫 How to reach me: just me a message!
+Yow, I'm an master student in Information Management at the KULeuven. My intention is to do the master in AI next year but my programming skills are not on point yet. That's why I created a Github profile. If you have any tips or cool websites to help me excel in (preferably) Java, let me know! 
 
-<!---
-fredje007/fredje007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Additionally, I'm also looking for some easy to contribute open-source coding. If you have a potential program, you may always send me a message. :)
